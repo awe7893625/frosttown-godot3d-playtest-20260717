@@ -1,0 +1,24 @@
+{
+  "source_sha": "d4fede8fad273fcf19c5151f573d73f6d5dcc4ed",
+  "source_branch": "task/M5-20260717-00211-godot3d",
+  "godot": "4.7.1.stable.official.a13da4feb",
+  "renderer": "gl_compatibility",
+  "web_threads": false,
+  "features": [
+    "original_blender_glb_assets",
+    "resident_allocation",
+    "offline_income_8h_cap",
+    "hero_team_growth",
+    "day_upgrade_night_defense",
+    "tutorial_interaction_in_spawn_range"
+  ],
+  "automated_test_count": 89,
+  "human_test_count": 0,
+  "accepted": false,
+  "sha256": {
+    "index.html": "bfafc045375c0df6cdda147bca907b4ced16a59ee4285f16c39127ffc4d58996",
+    "index.js": "68586d6daafc93c6e697b3fb258976874aa7459b8931165ebb1dc3c9614cc42c",
+    "index.wasm": "35116f68540ac41acf7d71ea457added91b5e960a9cca3e2acc72918eaf01277",
+    "index.pck": "3ead097fa339d1e659d68160102120ccea83dd345b82f3ab322ef7dd906ab2e9"
+  }
+}
