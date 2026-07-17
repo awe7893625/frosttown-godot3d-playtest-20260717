@@ -1,0 +1,33 @@
+{
+  "source_sha": "409721456921eeaa110af7190e6cdef8cdac567d",
+  "source_branch": "task/M5-20260717-00211-godot3d",
+  "godot": "4.7.1.stable.official.a13da4feb",
+  "renderer": "gl_compatibility",
+  "web_threads": false,
+  "features": [
+    "second_pass_original_blender_glb_assets",
+    "portrait_camera_composition",
+    "world_drag_orbit_and_pinch_zoom",
+    "camera_gesture_hud_isolation",
+    "camera_relative_direction_fix",
+    "focus_loss_input_release",
+    "compact_mobile_hud",
+    "resident_allocation",
+    "offline_income_8h_cap",
+    "hero_team_growth",
+    "day_upgrade_night_defense",
+    "progression_save_with_spawn_reset",
+    "level_two_content_cap_and_day_objective_reset"
+  ],
+  "automated_test_count": 102,
+  "browser_viewport": "390x844",
+  "browser_console_warning_error_count": 0,
+  "human_test_count": 0,
+  "accepted": false,
+  "sha256": {
+    "index.html": "5f52795c765952c4cc8ed55e4a88092a33f658e9fc83c6d16784cf6ef7a422c9",
+    "index.js": "68586d6daafc93c6e697b3fb258976874aa7459b8931165ebb1dc3c9614cc42c",
+    "index.wasm": "35116f68540ac41acf7d71ea457added91b5e960a9cca3e2acc72918eaf01277",
+    "index.pck": "8e8398809288d20db3dad380ec559bd38c859ad64b0990b83c909f2db6a0f18d"
+  }
+}
