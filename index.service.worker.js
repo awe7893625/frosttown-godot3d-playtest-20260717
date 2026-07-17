@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1784281483|958197';
+const CACHE_VERSION = '1784282129|1080610';
 /** @type {string} */
 const CACHE_PREFIX = 'Frost Town 3D-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
